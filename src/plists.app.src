@@ -1,0 +1,7 @@
+{application, plists,
+ [{description, "An Erlang module for doing list operations in parallel"},
+  {vsn, "1"},
+  {registered, []},
+  {applications, [kernel, stdlib]},
+  {env, []}
+ ]}.
